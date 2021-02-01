@@ -17,6 +17,14 @@ int main(int argc, char **argv)
 {
     string registration_method;
     double r;
+    double r;
+    double r;
+    double r;
+    double r;
+    double r;
+
+
+
     string path = "/home/rmy/test/OpenCV_test/test.yaml" ;
     cv::FileStorage fsSettings(path.c_str(), cv::FileStorage::READ);
 
