@@ -25,14 +25,6 @@ int main(int argc, char **argv)
 
 
 
-    string path = "/home/rmy/test/OpenCV_test/test.yaml" ;
-    cv::FileStorage fsSettings(path.c_str(), cv::FileStorage::READ);
-
-    if(!fsSettings.isOpened())
-    {
-        cout<<"Failed to open settings file at: "<<path<<endl;
-        return 0 ;
-    }
     else cout<<"success to open file at: "<<path<<endl;
     fsSettings["registration_method"] >> registration_method;
     fsSettings["NDT"]["res"] >> r;
