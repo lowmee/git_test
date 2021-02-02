@@ -12,7 +12,7 @@
 
 //注释#####
 using namespace std;
-
+//注释@@@
 int main(int argc, char **argv)
 {
     string registration_method;
