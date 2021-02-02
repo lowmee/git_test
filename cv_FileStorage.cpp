@@ -10,7 +10,7 @@
 #include <opencv2/imgcodecs/imgcodecs_c.h>
 #include <cv.hpp>
 
-
+//注释#####
 using namespace std;
 
 int main(int argc, char **argv)
