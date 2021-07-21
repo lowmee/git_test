@@ -27,5 +27,7 @@ int main(int argc, char **argv)
     double r;
     double r;
 
+    
+    int x;//新加内容
 
 }
