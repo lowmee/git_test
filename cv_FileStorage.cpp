@@ -19,6 +19,8 @@ int main(int argc, char **argv)
     string registration_method;
     double r;
     double r;
+    //剑姬
+    float a;
     double r;
     double r;
     double r;
