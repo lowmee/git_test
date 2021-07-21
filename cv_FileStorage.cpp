@@ -30,5 +30,7 @@ int main(int argc, char **argv)
 
     
     int x;//新加内容
+    //hot-fix
+
     //master
 }
